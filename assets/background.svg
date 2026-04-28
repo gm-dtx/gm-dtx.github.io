@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1400" viewBox="0 0 2400 1400" role="img" aria-label="Abstract biotechnology network background">
+  <defs>
+    <radialGradient id="glowA" cx="34%" cy="32%" r="55%">
+      <stop offset="0%" stop-color="#2e7de1" stop-opacity="0.34"/>
+      <stop offset="55%" stop-color="#216cc9" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#061018" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="76%" cy="45%" r="52%">
+      <stop offset="0%" stop-color="#47b46b" stop-opacity="0.30"/>
+      <stop offset="58%" stop-color="#3ea66d" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#061018" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#2d74d7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#48b86f" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+  <rect width="2400" height="1400" fill="#05090d"/>
+  <rect width="2400" height="1400" fill="url(#glowA)"/>
+  <rect width="2400" height="1400" fill="url(#glowB)"/>
+  <g opacity="0.34" stroke="url(#line)" stroke-width="3" fill="none">
+    <path d="M340 290 C560 180, 720 300, 910 230 S1260 250, 1480 160 S1810 170, 2060 280"/>
+    <path d="M180 780 C460 650, 720 790, 990 650 S1450 540, 1650 690 S1980 820, 2240 640"/>
+    <path d="M550 1120 C820 930, 1010 1050, 1240 870 S1610 760, 1860 940"/>
+  </g>
+  <g opacity="0.38">
+    <circle cx="410" cy="320" r="7" fill="#2e7de1"/>
+    <circle cx="575" cy="246" r="18" fill="#2568c0"/>
+    <circle cx="740" cy="310" r="10" fill="#328bd3"/>
+    <circle cx="980" cy="230" r="28" fill="#2583c9"/>
+    <circle cx="1180" cy="270" r="12" fill="#38a5c7"/>
+    <circle cx="1390" cy="210" r="22" fill="#3aa27e"/>
+    <circle cx="1685" cy="195" r="31" fill="#42ac72"/>
+    <circle cx="1940" cy="284" r="9" fill="#56c372"/>
+    <circle cx="2080" cy="330" r="16" fill="#3db269"/>
+    <circle cx="280" cy="805" r="30" fill="#205fb6"/>
+    <circle cx="510" cy="720" r="13" fill="#2d8ed1"/>
+    <circle cx="700" cy="790" r="48" fill="#2574c4"/>
+    <circle cx="935" cy="665" r="16" fill="#36a0c2"/>
+    <circle cx="1200" cy="600" r="62" fill="#3296bd"/>
+    <circle cx="1468" cy="640" r="18" fill="#42b283"/>
+    <circle cx="1660" cy="720" r="45" fill="#49b46f"/>
+    <circle cx="1910" cy="680" r="13" fill="#58c56e"/>
+    <circle cx="2160" cy="740" r="24" fill="#40b064"/>
+    <circle cx="470" cy="1130" r="18" fill="#2a80cb"/>
+    <circle cx="845" cy="1040" r="12" fill="#3294d0"/>
+    <circle cx="1090" cy="1010" r="35" fill="#36a595"/>
+    <circle cx="1330" cy="910" r="14" fill="#46b787"/>
+    <circle cx="1545" cy="1000" r="23" fill="#4eb66f"/>
+    <circle cx="1768" cy="945" r="12" fill="#56c56c"/>
+    <circle cx="2025" cy="1085" r="30" fill="#3fac67"/>
+  </g>
+  <g opacity="0.12" filter="url(#soft)">
+    <circle cx="1030" cy="725" r="210" fill="#2e9ccd"/>
+    <circle cx="1630" cy="610" r="220" fill="#4eb66f"/>
+  </g>
+</svg>
